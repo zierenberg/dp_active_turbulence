@@ -1,5 +1,7 @@
 # dp_active_turbulence
+Develop effective sptial models of directed percolation with annealed coupling motivated by DP-like puffs at the onset of turbulent in (active) turbulence
 
+# Reproducibility
 This code base is using the Julia Language and [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
 > dp_active_turbulence
